@@ -75,6 +75,7 @@ export default function App() {
           <h1>Jom<span>Gerak</span></h1>
           <span className="tag">Management dashboard · City of Elmina pilot</span>
         </div>
+        <a href="https://jomgerak-mobile.vercel.app/" target="_blank" rel="noreferrer" style={{ marginLeft: 'auto', marginRight: 12, fontWeight: 600, color: '#C8102E', textDecoration: 'none' }}>Open resident app ↗</a>
         <span className={`live ${status}`}><i />{{ connecting: 'Connecting…', live: 'Live', demo: 'Demo mode · not connected to the database', error: 'Connection problem · retrying' }[status]}</span>
       </header>
 
