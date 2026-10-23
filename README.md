@@ -1,6 +1,7 @@
 # JomGerak
 
-**Live dashboard:** https://jomgerak.vercel.app/
+**Live dashboard prototype:**  https://jomgerak.vercel.app/ 
+**Resident app prototype:**  https://jomgerak-mobile.vercel.app/
 
 Neighbourhood fitness community for Sime Darby Property townships.
 Sime Darby Property University Hackathon 2026 · People theme.
